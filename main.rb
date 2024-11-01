@@ -1,5 +1,5 @@
 require './SortingAlgorithms/sort.rb'
-require './generateCsv.rb'
+require './generate_samples.rb'
 require 'gruff'
 
 def run_sorting_algorithms(samples)
